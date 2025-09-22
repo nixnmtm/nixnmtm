@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Bioinformatics researcher currently working on Next generation sequencing analysis (WES, WGS, scRNA-Seq, Spatial Transcriptomics) and Protein dynamics simulation.
+🔭 Bioinformatics researcher working on Next generation sequencing analysis (WES, WGS, scRNA-Seq, Spatial Transcriptomics) and Protein dynamics simulation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nixon-raj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nixnmtm) 
