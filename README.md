@@ -1,5 +1,44 @@
 # 💫 About Me:
-🔭 Bioinformatics researcher working on Next generation sequencing analysis (WES, WGS, scRNA-Seq, Spatial Transcriptomics) and Protein dynamics simulation.
+### 🧬 Computational Biologist | Bioinformatics Scientist | Structural Bioinformatics 
+
+👋 I am a **Bioinformatics Postdoctoral Scientist** in Dr.Baker lab at the **Abigail Wexner Research Institute, Nationwide Children’s Hospital, Columbus, Ohio, USA**. My work focuses on integrating genomics, transcriptomics, and computational structural biology to uncover causal genetic variants and develop therapeutic strategies for rare congenital diseases such as Prune Belly Syndrome.
+
+I have a multidisciplinary background spanning molecular dynamics, bioinformatics, and machine learning. During my PhD with Prof. Jhih-Wei Chu at National Yang Ming Chiao Tung University (Taiwan), I developed statistical learning and rigidity graph models to uncover mechanical relay pathways and allosteric mechanisms in proteins. Now, in my postdoctoral research, I apply NGS data analysis, spatial and single-cell transcriptomics, and computational drug design to bridge the gap between variant discovery and therapeutic development. 
+ 
+I’m a researcher passionate about bridging **multi-omics data analysis** and **computational structural biology** to understand disease mechanisms and accelerate therapeutic discovery.  
+
+## 🧠 Key Tools & Publications  
+
+**1. [FluctMatch](https://github.com/nixnmtm/python-fluctmatch)**  
+Click, T.H., **Nixon Raj**, & J.-W. Chu (2016). *Methods in Enzymology*, 578:327–342. [DOI](https://doi.org/10.1016/bs.mie.2016.05.024)  
+> Calculates enzyme fluctuograms from MD simulations to study correlated motions in enzymes.
+
+**2. [SMSL](https://github.com/nixnmtm/SMSL)**  
+**Nixon Raj**, T. Click, H. Yang & J.-W. Chu (2021). *Comput. Struct. Biotechnol. J.*, 19, 5309–5320.  
+> Predicts mechanical sensitivity and allosteric communication in proteins using graph theory and statistical learning.
+
+**3. [MechanicalRelay](https://github.com/nixnmtm/MechanicalRelay)**  
+**Nixon Raj**, T. Click, H. Yang & J.-W. Chu (2022). *Chem. Sci.*, 13, 3688–3696. [DOI](https://doi.org/10.1039/D1SC06184D)  
+> Reveals long-range mechanical relay in proteins through structure–mechanics statistical learning.
+
+---
+
+## 🧩 Highlights  
+- 🏆 **American Urology Association Research Scholar Award** – $80,000  
+- 🏆 **Postdoctoral Idea Award (2025)** – $25,000, patent filed
+- 🏆 **NURAG Award** - $5000
+- 👨‍💻 Developed multi-omics pipelines and simulation frameworks for variant-to-drug discovery  
+
+---
+## Publication
+🔗 [NIH bibliograpgy](https://www.ncbi.nlm.nih.gov/myncbi/nixon.raj.1/bibliography/public) | [ORCID](https://orcid.org/0000-0002-5244-5760) | [Google Scholar](https://scholar.google.com/citations?user=5on2Zn4AAAAJ&hl=en)
+
+---
+
+## 📫 Contact  
+📧 [nixon.raj@nationwidechildrens.org](mailto:nixon.raj@nationwidechildrens.org)  
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nixon-raj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nixnmtm) 
