@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🧬 Computational Biologist | Bioinformatics Scientist | Structural Bioinformatics 
+### 🧬 Computational Biology | Bioinformatics | Structural Bioinformatics | Drug Discovery
 
 👋 I am a **Bioinformatics Postdoctoral Scientist** in Dr.Baker lab at the **Abigail Wexner Research Institute, Nationwide Children’s Hospital, Columbus, Ohio, USA**. My work focuses on integrating genomics, transcriptomics, and computational structural biology to uncover causal genetic variants and develop therapeutic strategies for rare congenital diseases such as Prune Belly Syndrome.
 
