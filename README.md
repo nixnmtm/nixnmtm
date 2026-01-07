@@ -7,7 +7,7 @@ I have a multidisciplinary background spanning molecular dynamics, bioinformatic
  
 I’m a researcher passionate about bridging **multi-omics data analysis** and **computational structural biology** to understand disease mechanisms and accelerate therapeutic discovery.  
 
-## Check my [Portfolio](nixnmtm-portfolio.vercel.app)
+## Check my [Portfolio](https://nixnmtm-portfolio.vercel.app)
 ---
 
 ## 📫 Contact  
