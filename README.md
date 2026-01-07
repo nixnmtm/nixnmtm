@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me 
 ### 🧬 Computational Biology | Bioinformatics | Structural Bioinformatics | Drug Discovery
 
 👋 I am a **Bioinformatics Postdoctoral Scientist** in Dr.Baker lab at the **Abigail Wexner Research Institute, Nationwide Children’s Hospital, Columbus, Ohio, USA**. My work focuses on integrating genomics, transcriptomics, and computational structural biology to uncover causal genetic variants and develop therapeutic strategies for rare congenital diseases such as Prune Belly Syndrome.
@@ -7,7 +7,7 @@ I have a multidisciplinary background spanning molecular dynamics, bioinformatic
  
 I’m a researcher passionate about bridging **multi-omics data analysis** and **computational structural biology** to understand disease mechanisms and accelerate therapeutic discovery.  
 
-## Check my [Portfolio](https://nixnmtm-portfolio.vercel.app)
+## Check my <ins>[portfolio](https://nixnmtm-portfolio.vercel.app)<ins>
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nixon-raj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nixnmtm) 
